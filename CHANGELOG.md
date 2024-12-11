@@ -84,7 +84,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - System: Keyboard configuration
 - System: Wireless access point configuration
 
-[unreleased]: https://github.com/upkie/parts/compare/v1.1.0...HEAD
-[1.1.0]: https://github.com/upkie/parts/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/upkie/parts/compare/v0.1.0...v1.0.0
-[0.1.0]: https://github.com/upkie/parts/releases/tag/v0.1.0
+[unreleased]: https://github.com/upkie/upkie_parts/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/upkie/upkie_parts/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/upkie/upkie_parts/compare/v0.1.0...v1.0.0
+[0.1.0]: https://github.com/upkie/upkie_parts/releases/tag/v0.1.0
