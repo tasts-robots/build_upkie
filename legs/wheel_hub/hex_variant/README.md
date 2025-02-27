@@ -1,4 +1,6 @@
-# RC Wheel Hub
+# Hex variant of the wheel Hub
+
+This variant has a tiny shaft that can be used with a 17 mm wheel hex driver RC cars. It is easier to adapt to various RC wheels, but more brittle.
 
 ## Revisions
 
