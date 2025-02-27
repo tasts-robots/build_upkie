@@ -7,12 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Add Blender assembly of the whole robot
+- Add STL assembly of the whole robot
+
 ### Changed
 
 - Redesign the wheel hub (thanks to @Tordjx and @EtienneAr)
+- Move previous wheel hub to hex variant sub-directory
+
 ## [1.1.0] - 2024-09-02
-
-
 
 ### Added
 

@@ -5,12 +5,20 @@ This repository provides 3D printing (STL files, 3MF projects) and CAD (Blender,
 > [!NOTE]\
 > We maintain this separate repository because the full revision history of hardware parts is memory-consuming. Only part designers should have to clone this repository; most users will just clone the main [upkie](https://github.com/upkie/upkie) repository.
 
-## Assembly
+Assembly files are also available to check out the overall robot:
 
-Assembly files are also available on Hackaday.io:
+- [`upkie.blend`](https://cdn.hackaday.io/files/1857297946229536/upkie-blender.zip): Blender project
+- [`upkie.stl`](https://cdn.hackaday.io/files/1857297946229536/upkie-stl.zip): STL model
 
-- [`upkie.blend`](https://cdn.hackaday.io/files/1857297946229536/upkie-blender.zip): Blender project of the fully assembled robot
-- [`upkie.stl`](https://cdn.hackaday.io/files/1857297946229536/upkie-stl.zip): STL model of the fully assembled robot
+## Getting started
+
+This repository uses Git LFS to distribute large files. You will need to install Git LFS for your operating system. For instance, on a Debian-based Linux distribution:
+
+```console
+sudo apt install git-lfs
+```
+
+If you cloned this repository with Git LFS installed, all files will be in your working directory. If you cloned the repository without Git LFS, you can pull large files by `git lfs pull`.
 
 ## Add-ons
 
