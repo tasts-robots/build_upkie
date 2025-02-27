@@ -2,8 +2,9 @@
 
 This repository provides 3D printing (STL files, 3MF projects) and CAD (Blender, FreeCAD) files to produce the mechanical parts of Upkie wheeled bipeds.
 
-> [!NOTE]\
-> We maintain this separate repository because the full revision history of hardware parts is memory-consuming. Only part designers should have to clone this repository; most users will just clone the main [upkie](https://github.com/upkie/upkie) repository.
+<img align="right" height="150" src="https://github.com/user-attachments/assets/c4875d4b-3a93-4938-8836-7221ded15141">
+
+We maintain this separate repository because the full revision history of hardware parts is memory-consuming. Only part designers should have to clone this repository; most users will just clone the main [upkie](https://github.com/upkie/upkie) repository.
 
 Assembly files are also available to check out the overall robot:
 
