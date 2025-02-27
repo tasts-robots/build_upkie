@@ -1,10 +1,6 @@
-# Wheel Hub
+# RC Wheel Hub
 
 ## Revisions
-
-### 2024/11/07
-
-- Made the wheel and wheel hub a single piece. Added an outer lip to keep the tire in place.
 
 ### 2023/04/11
 
